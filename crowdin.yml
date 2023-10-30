@@ -1,0 +1,3 @@
+files:
+  - source: /global_packs/required_data/
+    translation: '%original_path%%original_file_name%'
