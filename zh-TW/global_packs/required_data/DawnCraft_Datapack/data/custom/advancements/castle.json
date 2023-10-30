@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "A Creative Castle!",
+            "text": "一座創意的城堡",
             "color": "yellow",
             "bold": true
         },
         "description": {
-            "text": "Found a villager castle with Create Contraptions."
+            "text": "用「創造裝置」找到了一座村民城堡。"
         },
         "icon": {
             "item": "minecraft:poppy"
