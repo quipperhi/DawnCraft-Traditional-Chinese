@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the Cartographer to locate a group of rogue eastern warriors."
+                  "text": "製圖師用於定位一群東方流氓戰士位置所提供的地圖。"
                 }
               ]
             }
