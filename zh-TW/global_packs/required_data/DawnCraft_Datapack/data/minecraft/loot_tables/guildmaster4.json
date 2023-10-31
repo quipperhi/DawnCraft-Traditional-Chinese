@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "骷髏領主 - 眼球守衛者之一的下落。"
+                  "text": "骷髏領主 - 眼球持有者之一的下落。"
                 }
               ]
             }
