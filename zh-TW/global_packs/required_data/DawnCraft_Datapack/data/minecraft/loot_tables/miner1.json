@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to a haunted place"
+              "name": "通往鬧鬼之處的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the miner to investigate a haunted place."
+                  "text": "礦工用來調查鬧鬼的地方所提供的地圖。"
                 }
               ]
             }

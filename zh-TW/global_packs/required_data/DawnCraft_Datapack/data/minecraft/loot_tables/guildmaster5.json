@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Sentinel Knight"
+              "name": "前往哨兵騎士之處的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of the Sentinel Knight - one of the Eye Holders."
+                  "text": "哨兵騎士 - 眼球持有者之一的下落。"
                 }
               ]
             }

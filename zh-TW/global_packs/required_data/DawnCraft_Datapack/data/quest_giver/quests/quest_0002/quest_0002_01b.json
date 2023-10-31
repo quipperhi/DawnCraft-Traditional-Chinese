@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "A Favor"
+      "text": "一個請求"
     },
     "description": {
-      "text": "Good man! It's been a while since our hunters caught any rabbit... I would be grateful if you could spare me any $(red)rabbit foot$() you have."
+      "text": "好人！ 我們的獵人已經有一段時間沒有抓到兔子了... 如果你能把你的 $(red)兔子腳$() 留給我，我會很感激。"
     }
   }
 }

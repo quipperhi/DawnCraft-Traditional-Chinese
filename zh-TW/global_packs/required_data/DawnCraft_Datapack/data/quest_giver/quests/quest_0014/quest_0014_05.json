@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
       "text": "We have very little information on Knight Rober in his current state, but he should be quite weakened since the last war... Oh, remember to bring ender pearls. He has a nasty attack that can only be escaped via teleportation."
@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
-      "text": "Wow, you've defeated Knight Rober huh. Was he tough? Back in the day he was one of the scariest opponent you could face in a duel, guess his age caught up to him finally. Well, the next eye-holder is another human. He's currently living peacefully in his farmhouse... Here's the map to his location."
+      "text": "哇哦，你打敗了羅伯騎士啊。他很難對付嗎？當年他是決鬥中最可怕的對手之一，猜想他的年齡終於追上了他。好吧，下一個眼球持有者是另一個人類。他目前在他的農舍裡過著平靜的生活... 這是他所在位置的地圖。"
     }
   },
   "tasks": [

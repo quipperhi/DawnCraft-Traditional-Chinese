@@ -4,15 +4,15 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
-      "text": "The next eye holder is an undead. An undead with many tricks up its sleeves to be precise... It's surrounded by its followers, so you might have trouble getting to him."
+      "text": "下一個眼睛持有者是個不死生物。準確地說，是一個詭計多端的不死者... 它周圍都是追隨者，所以你可能很難接近他。"
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
       "text": "The Skeleton Lord is probably the most powerful undead I've ever seen. I'm surprised you're able to take him down. Alright, let's see... The next eye is guarded by a renowned Holy Knight. I'm not sure if it's possible for even you. Anyhow, I'll give you its location. Proceed with caution."

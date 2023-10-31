@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "A Precious Item"
+      "text": "珍貴的物品"
     },
     "description": {
       "text": "Please get me a piece of $(red)paper$()."

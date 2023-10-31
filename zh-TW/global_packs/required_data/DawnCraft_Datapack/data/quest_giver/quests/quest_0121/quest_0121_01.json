@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Map to Ender Guardian"
+      "text": "前往終界守護者之處的地圖"
     },
     "description": {
       "text": "Nothing is free my friend. Give me 5 emeralds and I'll give you the direction to the Ender Guardian."
@@ -15,7 +15,7 @@
       "text": "Thanks!"
     },
     "description": {
-      "text": "Very good, here you go. Remember, don't open this map until you're actually in the End. Don't say I didn't warn you."
+      "text": "非常好，給你。記住，在你真正到達終界之前不要打開這張地圖。別說我沒有警告過你。"
     }
   },
   "tasks": [

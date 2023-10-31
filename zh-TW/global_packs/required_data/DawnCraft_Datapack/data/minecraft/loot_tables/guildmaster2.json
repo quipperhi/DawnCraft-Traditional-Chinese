@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to Knight Rober"
+              "name": "前往羅伯騎士之處的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of Knight Rober - one of the Eye Holders."
+                  "text": "羅伯騎士 - 眼球持有者之一的下落。"
                 }
               ]
             }

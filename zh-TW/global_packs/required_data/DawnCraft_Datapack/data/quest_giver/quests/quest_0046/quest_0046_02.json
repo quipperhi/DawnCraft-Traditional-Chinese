@@ -7,7 +7,7 @@
 			"text": "Hello"
 		},
 		"description": {
-			"text": "It seems you haven't finished your contract yet., or did you forget your assignment? Bring me $()5 orcs teeth$() as proof of your extermination task."
+			"text": "看來你的合約還沒完成，還是你忘記了你的任務？ 帶給我 $()5 顆獸人牙齒$() 作為你完成消滅任務的證明。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "Here."
 		},
 		"description": {
-			"text": "Well done. I have no more task for you at the moment. Just know that evil is always lurking about, stay vigilant."
+			"text": "做得好。我現在沒有更多的任務給你了。要知道邪惡總是潛伏在身邊，保持警覺。"
 		}
 	},
 	"tasks": [

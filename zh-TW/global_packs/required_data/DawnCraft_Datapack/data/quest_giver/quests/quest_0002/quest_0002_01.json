@@ -4,18 +4,18 @@
   "icon": "minecraft:rabbit_foot",
   "start": {
     "title": {
-      "text": "A Favor"
+      "text": "一個請求"
     },
     "description": {
-      "text": "Well, do you have the rabbit foot?"
+      "text": "那麼，你有兔子腳了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Well great!"
+      "text": "好極了！"
     },
     "description": {
-      "text": "Well great! I don't have much to pay for it... Please accept this cooked mutton, freshly cooked!"
+      "text": "好極了！我沒有太多報酬可以給你... 請收下這新鮮剛出爐的烤羊肉！"
     }
   },
   "tasks": [

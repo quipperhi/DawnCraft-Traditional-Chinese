@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
       "text": "The Sentinel Knight protected the Guardian Eye for centuries. None of the adventurers I know ever got past him... I heard that he's holding the key that frees the eye from its dormant state."
@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
-      "text": "Amazing. Even the Sentinel Knight is no match for you... Well, you're approaching the end of your journey. How do you feel? ... Anyway, you'll need to summon the next eye holder. Here, take this knot of hair and the map to its summoning altar."
+      "text": "不可思議。即使是哨兵騎士也不是你的對手... 好吧，你的旅程即將結束。你感覺如何？ ... 無論如何，你需要召喚下一個眼球持有者。來，把這搓頭髮和地圖帶到它的召喚祭壇。"
     }
   },
   "tasks": [

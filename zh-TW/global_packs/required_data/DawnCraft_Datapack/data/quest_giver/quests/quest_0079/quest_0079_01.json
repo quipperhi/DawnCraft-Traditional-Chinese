@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Extermination Request"
+      "text": "消滅請求"
     },
     "description": {
-      "text": "Please finish the extermination task as soon as possible. It's affecting my lambs."
+      "text": "請盡快完成消滅任務。它正在影響我的羔羊們。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "多謝了！"
     },
     "description": {
-      "text": "Well-done. There's still a lot of them left, but I think I see less of them around now. Here's your reward."
+      "text": "做得好。雖然他們還剩下很多，但我想我現在看到的已經很少了。這是你的獎勵。"
     }
   },
   "tasks": [

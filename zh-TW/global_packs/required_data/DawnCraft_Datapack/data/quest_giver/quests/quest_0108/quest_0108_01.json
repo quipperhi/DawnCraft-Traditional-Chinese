@@ -29,7 +29,7 @@
 	],
 	"rewards": [
 		{
-			"command": "give @p epicfight:skillbook{skill:\"epicfight:energizing_guard\"}",
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:energizing_guard\"}",
 			"id": "quest_giver:command"
 		}
 	]

@@ -18,13 +18,13 @@
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Guard's Map"
+							"name": "守衛的地圖"
 						},
 						{
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "The whereabouts of a monster underground. Dig deep and defeat the monster."
+									"text": "地底有怪物的行蹤。深入挖掘並擊敗怪物。"
 								}
 							]
 						}

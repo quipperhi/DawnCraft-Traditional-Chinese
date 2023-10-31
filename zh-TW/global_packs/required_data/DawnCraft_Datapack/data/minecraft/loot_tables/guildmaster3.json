@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Nine Tails"
+              "name": "前往九尾之處的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of the Nine Tails - one of the Eye Holders."
+                  "text": "九尾 - 眼球持有者之一的下落。"
                 }
               ]
             }

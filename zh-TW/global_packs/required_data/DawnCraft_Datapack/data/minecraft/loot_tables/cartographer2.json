@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Summoning Altar"
+              "name": "通往召喚祭壇的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the cartographer to locate the summoning altar."
+                  "text": "製圖師用於定位召喚祭壇所提供的地圖。"
                 }
               ]
             }

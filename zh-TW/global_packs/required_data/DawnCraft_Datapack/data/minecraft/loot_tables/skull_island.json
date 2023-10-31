@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "The True End's Portal"
+              "name": "真正的終界傳送門"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map leading you to the most powerful being within the realm."
+                  "text": "一張指引你前往領域中最強大的存在的地圖"
                 }
               ]
             }

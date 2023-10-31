@@ -18,13 +18,13 @@
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Hunter's Map"
+							"name": "獵人的地圖"
 						},
 						{
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "A map given by the hunter to locate a floating palace called Rootless."
+									"text": "獵人用於定位名為\"無根\"的漂浮宮殿所提供的地圖。"
 								}
 							]
 						}

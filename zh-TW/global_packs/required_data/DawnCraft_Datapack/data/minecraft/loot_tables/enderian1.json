@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Ruined Citadel"
+              "name": "通往遺跡堡壘的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Ender Guardian's whereabouts."
+                  "text": "終界守護者的下落。"
                 }
               ]
             }

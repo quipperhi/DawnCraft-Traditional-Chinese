@@ -4,18 +4,18 @@
   "icon": "minecraft:blast_furnace",
   "start": {
     "title": {
-      "text": "Hey there."
+      "text": "嘿。"
     },
     "description": {
-      "text": "Hey there. Did you find the pendant? They usually hide valuables under tables."
+      "text": "嘿。你找到吊墜了嗎？他們通常將貴重物品藏在桌子底下。"
     }
   },
   "complete": {
     "title": {
-      "text": "Finally..."
+      "text": "終於..."
     },
     "description": {
-      "text": "Finally, Juan... I got it back... I didn't break my vow... Oh, here ya go. Thank you for this, it means a lot to me."
+      "text": "終於，胡安... 我拿回來了... 我沒有違背我的誓言...。 哦，這給你。謝謝你，這對我來說意義重大。"
     }
   },
   "tasks": [
@@ -32,7 +32,7 @@
       "item": {
         "type": "minecraft:item_nbt",
         "item": "minecraft:iron_chestplate",
-        "nbt": "{display:{Name:'[{\"text\":\"Oathkeeper\",\"italic\":false}]',Lore:['[{\"text\":\"A chestplate the armorer specifically made for his champion.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
+        "nbt": "{display:{Name:'[{\"text\":\"守誓者\",\"italic\":false}]',Lore:['[{\"text\":\"盔甲匠專門為他的冠軍製作的胸甲。\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
       },
       "id": "quest_giver:item",
       "times": 1

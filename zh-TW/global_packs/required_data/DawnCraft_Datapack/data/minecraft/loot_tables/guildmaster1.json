@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Corrupt Ogre"
+              "name": "前往腐化食人魔之處的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of the Corrupt Ogre - one of the Eye Holders."
+                  "text": "腐化食人魔 - 眼球持有者之一的下落。"
                 }
               ]
             }

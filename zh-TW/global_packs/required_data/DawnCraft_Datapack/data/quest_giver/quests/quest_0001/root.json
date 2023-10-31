@@ -3,10 +3,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Hey there Young Adventurer!"
+      "text": "嘿，年輕的冒險家！"
     },
     "description": {
-      "text": "Hey there Young Adventurer! Mind giving me a hand?"
+      "text": "嘿，年輕的冒險家！介意幫我一下嗎？"
     }
   }
 }
