@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "A Suspicious Map"
+              "name": "可疑的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by a fallen adventurer to locate a church."
+                  "text": "一名倒下的冒險家給出的用於定位教堂的地圖。"
                 }
               ]
             }
