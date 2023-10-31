@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Oceanographer Trade Scroll Obtained!",
+            "text": "海洋學家交易卷軸獲得!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Oceanographer."
+            "text": "獲取海洋學家的交易卷軸。"
         },
         "icon": {
             "item": "minecraft:paper"
