@@ -3,10 +3,10 @@
   "icon": "minecraft:diamond",
   "start": {
     "title": {
-      "text": "Nevermind."
+      "text": "不要緊。"
     },
     "description": {
-      "text": "The Villager decided on the last second not to talk to you."
+      "text": "村民在最後一刻決定不跟你說話。"
     }
   }
 }
