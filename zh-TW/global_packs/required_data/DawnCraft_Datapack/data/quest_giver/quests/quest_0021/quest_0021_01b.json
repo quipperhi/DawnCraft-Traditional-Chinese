@@ -7,7 +7,7 @@
       "text": "help"
     },
     "description": {
-      "text": "I need your help retrieving an item called $(red)Heart of the Sea$(). It can often be found in buried treasures, but I lack the experience and expertise an adventurer have to find it. Could you get it for me?"
+      "text": "我需要你的幫助來找回一個名為 $(red)海洋之心$() 的物品。 它經常可以在埋藏的寶藏中找到，但我沒有冒險家所擁有的經驗和專業知識。 你能幫我找到它嗎?"
     }
   }
 }
