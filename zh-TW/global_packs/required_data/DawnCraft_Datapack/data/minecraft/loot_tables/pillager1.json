@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to a Pillager Camp"
+              "name": "通往掠奪者營地的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The map to the closest pillager camp near you."
+                  "text": "離你最近的掠奪者營地的地圖。"
                 }
               ]
             }
