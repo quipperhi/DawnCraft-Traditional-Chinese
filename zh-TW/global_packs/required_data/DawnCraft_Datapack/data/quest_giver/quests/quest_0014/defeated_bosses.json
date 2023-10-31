@@ -4,7 +4,7 @@
   "icon": "minecraft:emerald",
   "start": {
     "title": {
-      "text": "Already Done!"
+      "text": "已經完成了！"
     },
     "description": {
       "text": "哦？在我給你地圖之前你就已經打敗了眼球持有者了？嗯... 讓我看看眼球持有者當時掉落的那隻眼睛。 事實上，丟掉它然後再撿起來...... 不要問為什麼！"
@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "The End of the Road"
+      "text": "路的盡頭"
     },
     "description": {
-      "text": "I have no more information to give you my friend. Follow your calling."
+      "text": "我沒有更多的資訊可以給你，我的朋友。跟隨你的使命。"
     }
   },
   "tasks": [
