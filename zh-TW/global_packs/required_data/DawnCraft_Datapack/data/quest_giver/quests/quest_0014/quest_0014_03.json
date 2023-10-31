@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
       "text": "See the map I gave you? Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "通往眼睛持有者的道路"
     },
     "description": {
       "text": "Good job. Seems you're ready to take on the $(red)Corrupted Ogre$(). Here, the creature dwelling in the marked spot is holding one of the eyes."
