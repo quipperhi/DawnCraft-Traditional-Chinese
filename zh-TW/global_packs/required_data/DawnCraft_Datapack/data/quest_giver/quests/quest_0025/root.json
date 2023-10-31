@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Extermination Task"
+      "text": "消滅任務"
     },
     "description": {
-      "text": "Adventurer... Interested in an extermination task?"
+      "text": "冒險家...，對消滅任務有興趣嗎?"
     }
   }
 }
