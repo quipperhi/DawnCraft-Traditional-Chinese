@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to a Haunted Ruin"
+              "name": "通往鬧鬼廢墟的地圖"
             },
             {
               "function": "minecraft:set_lore",
