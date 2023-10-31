@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the netherian to investigate a haunted place."
+                  "text": "地獄族用來調查鬧鬼的地方所提供的地圖。"
                 }
               ]
             }
