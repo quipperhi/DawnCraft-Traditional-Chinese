@@ -24,7 +24,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "A map marking the closest village near you... I wonder why it's here."
+									"text": "一張標示了離你最近的村莊的地圖……我想知道它為什麼在這裡。"
 								}
 							]
 						}
