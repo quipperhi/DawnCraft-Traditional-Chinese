@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Cartographer Trade Scroll Obtained!",
+            "text": "製圖師交易卷軸獲得!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Cartographer."
+            "text": "獲取製圖師的交易卷軸。"
         },
         "icon": {
             "item": "minecraft:paper"

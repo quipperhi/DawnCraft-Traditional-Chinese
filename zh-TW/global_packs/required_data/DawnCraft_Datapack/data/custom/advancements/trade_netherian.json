@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Netherian Trade Scroll Obtained!",
+            "text": "地獄族交易卷軸獲得!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Netherian."
+            "text": "獲取地獄族的交易卷軸。"
         },
         "icon": {
             "item": "minecraft:paper"

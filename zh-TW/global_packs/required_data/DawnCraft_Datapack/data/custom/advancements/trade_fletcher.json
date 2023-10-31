@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Fletcher Trade Scroll Obtained!",
+            "text": "製箭師交易卷軸獲得!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Fletcher."
+            "text": "獲取製箭師的交易卷軸。"
         },
         "icon": {
             "item": "minecraft:paper"

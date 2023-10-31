@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Weaponsmith Trade Scroll Obtained!",
+            "text": "武器匠交易卷軸獲得!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Weaponsmith."
+            "text": "獲取武器匠的交易卷軸。"
         },
         "icon": {
             "item": "minecraft:paper"

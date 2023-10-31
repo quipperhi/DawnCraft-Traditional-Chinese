@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Miner Trade Scroll Obtained!",
+            "text": "礦工交易卷軸獲得!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Miner."
+            "text": "獲取礦工的交易卷軸。"
         },
         "icon": {
             "item": "minecraft:paper"
