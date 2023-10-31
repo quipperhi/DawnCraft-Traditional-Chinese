@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Guard's Map"
+              "name": "守衛的地圖"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of a lost child. Save him and bring him back to the village."
+                  "text": "一個失蹤兒童的下落。拯救他並將他帶回村莊。"
                 }
               ]
             }
