@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Location of the Father"
+              "name": "神父的位置"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Father Gascoigne's whereabouts."
+                  "text": "蓋斯柯恩神父的下落。"
                 }
               ]
             }
