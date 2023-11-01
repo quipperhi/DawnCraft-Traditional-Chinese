@@ -4,18 +4,18 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "What do you say? 10 Emeralds to learn how to use the stonecutter."
+      "text": "你覺得怎麼樣？ 10 個綠寶石來學習如何使用切石機。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "There you go!"
+      "text": "給你！"
     }
   },
   "tasks": [
