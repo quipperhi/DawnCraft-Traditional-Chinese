@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "你好，又見面了！"
     },
     "description": {
-      "text": "Ah, almost forgot. Can you get me a piece of paper? I'll mark down the location of their hideout."
+      "text": "啊，差點忘了。你能給我一張紙嗎？我會記下他們藏身處的位置。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
-      "text": "Here. Please hurry! We don't know what they're planning to do with the kid."
+      "text": "這裡。拜託快點！我們不知道他們打算對這個孩子做什麼。"
     }
   },
   "tasks": [
