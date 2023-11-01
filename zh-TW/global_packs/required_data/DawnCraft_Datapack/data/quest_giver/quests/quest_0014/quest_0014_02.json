@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
-      "text": "Good, seems like you're ready for an adventure! Ready to find your first eye?"
+      "text": "很好，看來你已經準備好冒險了！準備好尋找你的第一顆眼球了嗎？"
     }
   }
 }
