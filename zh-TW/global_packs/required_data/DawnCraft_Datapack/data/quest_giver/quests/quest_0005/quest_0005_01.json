@@ -4,15 +4,15 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Did you get the $(red)8 bones$()?"
+      "text": "你拿到 $(red)8根骨頭$() 了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
       "text": "Great! Now my crops will grow faster than the other farmers'! Haha! Well thank you kind sir, here's an emerald."
