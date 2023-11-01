@@ -4,18 +4,18 @@
   "icon": "minecraft:mushroom_stew",
   "start": {
     "title": {
-      "text": "Mushroom Stew!"
+      "text": "蘑菇湯！"
     },
     "description": {
-      "text": "Did you make the $(red)Mushroom Stew$() yet?"
+      "text": "你做了 $(red)蘑菇湯$() 了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Is that so..."
+      "text": "是這樣嗎..."
     },
     "description": {
-      "text": "Yum! Thanks stranger!"
+      "text": "嗯！謝謝陌生人！"
     }
   },
   "tasks": [

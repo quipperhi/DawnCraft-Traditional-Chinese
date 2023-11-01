@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Did you get a piece of $(red)Purple Archwood Log$() yet?"
+      "text": "你拿到一塊 $(red)纏敗啞木原木$() 了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "Thanks. Here's your reward."
+      "text": "謝謝。這是你的獎勵。"
     }
   },
   "tasks": [

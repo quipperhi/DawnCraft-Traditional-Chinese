@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Could you fetch me a piece of paper? I'll draw you a map."
+      "text": "你能拿一張紙給我嗎？我給你畫一張地圖。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Here you go. Please tell it that I send my regards. I wouldn't be here without it."
+      "text": "給你。請幫我向它問好。沒有它我就不會在這裡。"
     }
   },
   "tasks": [

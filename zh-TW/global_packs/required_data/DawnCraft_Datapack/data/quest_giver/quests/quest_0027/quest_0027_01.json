@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_ingot",
   "start": {
     "title": {
-      "text": "Spirit Hunting"
+      "text": "獵魂"
     },
     "description": {
-      "text": "Couldn't kill the $(red)5 Possessed Armor$() yet? Well, try harder, haha!"
+      "text": "還殺不死 $(red)5 隻附靈盔甲$()嗎？ 嗯，再努力一點，哈哈！"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
-      "text": "Haha, you actually did it! Mad man you are, but I like it! Here, take your reward, it's well-deserved!"
+      "text": "哈哈，你真的做到了！你真是個瘋子，但我喜歡！來吧，接受你的獎勵吧，這是當之無愧的！"
     }
   },
   "tasks": [

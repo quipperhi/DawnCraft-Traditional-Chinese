@@ -4,18 +4,18 @@
   "icon": "minecraft:oak_sapling",
   "start": {
     "title": {
-      "text": "Haze Mountain"
+      "text": "幽霧山"
     },
     "description": {
-      "text": "Oy, did you find the mystical biome $(red)Haze Mountain $() yet?"
+      "text": "哎呀，你找到神秘的 $(red)幽霧山生態域$() 了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Is that so..."
+      "text": "是這樣嗎..."
     },
     "description": {
-      "text": "Is that so... That is quite disappointing to be honest. I thought there would be dragons residing in Haze Mountains... Oh well, at least now I know it's a myth. Thanks."
+      "text": "是嗎... 說實話，這令人有點失望。我以為在幽霧山脈中會有龍類生物居住... 不過，至少現在我知道這只是個神話。謝謝你告訴我。"
     }
   },
   "tasks": [

@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那麼？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Active Guard. Just pay me 15 emeralds."
+			"text": "我可以教你一項技能 - 主動防禦。只要給我 15 顆綠寶石就可以了。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "謝謝！"
 		},
 		"description": {
-			"text": "Here you go."
+			"text": "給你！"
 		}
 	},
 	"tasks": [

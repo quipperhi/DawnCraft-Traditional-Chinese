@@ -3,10 +3,10 @@
   "icon": "minecraft:heart_of_the_sea",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hello adventurer. Could you get me something from the Ocean?"
+      "text": "你好，冒險家。你能幫我從海洋裡取得一些東西嗎？"
     }
   }
 }

@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hey young man, want to learn some combat skills?"
+      "text": "嘿年輕人，想學習一些戰鬥技能嗎？"
     }
   }
 }

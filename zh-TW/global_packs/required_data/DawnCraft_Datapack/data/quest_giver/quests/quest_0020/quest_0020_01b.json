@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "help"
+      "text": "幫忙"
     },
     "description": {
-      "text": "An adventurer like yourself asked me for a favor a while ago. I couldn't really help him... But maybe you can. Bring me a piece of paper. I'll draw you a map to his location."
+      "text": "不久前，像你這樣的冒險家向我求助。我真的幫不了他... 但也許你可以。給我一張紙。我會為你畫一張他所在位置的地圖。"
     }
   }
 }
