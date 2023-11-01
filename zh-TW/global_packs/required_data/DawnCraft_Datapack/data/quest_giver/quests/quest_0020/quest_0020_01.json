@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Fetch me a piece of paper? I'll draw you a map."
+      "text": "給我拿一張紙嗎？我給你畫一張地圖。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "Here you go. Say hi to him for me."
+      "text": "幹得好。代我向他問好。"
     }
   },
   "tasks": [
