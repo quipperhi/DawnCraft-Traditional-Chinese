@@ -3,10 +3,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "You want to learn about fishing? It takes patience, perseverance, and most importantly, a good teacher! I can teach you how to fish for 15 emeralds, what do you say?"
+      "text": "你想學習釣魚嗎？這需要耐心、毅力，最重要的是，一個好老師！我可以教你釣15顆綠寶石，你說怎麼樣？"
     }
   }
 }
