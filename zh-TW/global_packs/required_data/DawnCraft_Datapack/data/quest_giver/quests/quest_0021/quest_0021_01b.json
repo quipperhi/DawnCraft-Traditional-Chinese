@@ -4,7 +4,7 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "help"
+      "text": "幫忙"
     },
     "description": {
       "text": "我需要你的幫助來找回一個名為 $(red)海洋之心$() 的物品。 它經常可以在埋藏的寶藏中找到，但我沒有冒險家所擁有的經驗和專業知識。 你能幫我找到它嗎？"
