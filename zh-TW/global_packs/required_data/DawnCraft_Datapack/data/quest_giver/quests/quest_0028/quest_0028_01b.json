@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Great!"
+      "text": "太好了！"
     },
     "description": {
-      "text": "They say there is a biome within this dimension in which steams flow above boiling spring water and magical fog covers the entire mountain. Brave adventurer, if you ever come across such a place, please come back and let me know how it really is!"
+      "text": "有傳言說在這個維度中有一種生態域，蒸氣從沸騰的泉水流過，神奇的霧氣籠罩在整座山上。勇敢的冒險家，如果你真的找到了這樣的地方，請回來告訴我實際情況！"
     }
   }
 }
