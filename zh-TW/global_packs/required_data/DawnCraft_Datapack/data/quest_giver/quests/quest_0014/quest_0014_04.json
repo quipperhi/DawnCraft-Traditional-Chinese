@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
-      "text": "The Ogre is on a different level compared to the goblin king. Proceed with caution."
+      "text": "與哥布林王相比，食人魔的難度高出許多。謹慎行事。"
     }
   },
   "complete": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
-      "text": "Well done. Perhaps you'll be able to face $(red)Knight Rober$() now. He is much weaker than who he once was, but I'd assume that he's still very dangerous, as he is still able to contain the power of the eye he's holding. Here's the map to his current whereabouts."
+      "text": "做得好。 也許你現在就能面對 $(red)羅伯騎士$()了。 他比以前弱了很多，但我認為他仍然非常危險，因為他仍然能夠控制他所持有的眼球的力量。 這是他目前所在位置的地圖。"
     }
   },
   "tasks": [
