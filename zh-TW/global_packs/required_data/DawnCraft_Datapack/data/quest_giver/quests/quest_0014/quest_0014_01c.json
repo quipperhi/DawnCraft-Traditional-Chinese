@@ -4,10 +4,10 @@
 	"icon": "minecraft:crossbow",
 	"start": {
 		"title": {
-			"text": "Finding Pillagers"
+			"text": "尋找掠奪者"
 		},
 		"description": {
-			"text": "Thought you were an adventurer... Fine. Fetch me a piece of paper. I'll show you the whereabouts of the closest pillager camp we know of."
+			"text": "以為你是個冒險家... 好吧。給我一張紙。我會告訴你就我們所知最近的掠奪者營地的下落。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "地圖已獲取"
 		},
 		"description": {
-			"text": "Here you go. You may find pillagers somewhere closer though. Those buggers are infested everywhere."
+			"text": "幹得好。不過你可能會在更近的地方發現掠奪者。這些混蛋到處都是。"
 		}
 	},
 	"tasks": [

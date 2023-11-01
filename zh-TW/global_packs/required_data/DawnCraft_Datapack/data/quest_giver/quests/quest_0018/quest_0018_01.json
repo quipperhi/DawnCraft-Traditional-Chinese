@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Please get me a bow as soon as you can."
+      "text": "請盡快幫我弄一把弓。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "Thank you, now I can hunt again!"
+      "text": "謝謝你，我現在又可以打獵了！"
     }
   },
   "tasks": [

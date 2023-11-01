@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "I'm teaching people how to use the fletching table for a mere 10 emerald. What do you say?"
+      "text": "我正在教人們如何使用製箭台，只需10 顆綠寶石。你覺得怎麼樣？"
     }
   }
 }

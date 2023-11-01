@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "10 Emeralds for learning how to use the fletching table, pretty cheap right?"
+      "text": "學習如何使用製箭台只需要 10 顆綠寶石，很便宜吧？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "Here you go. Have fun making arrows!"
+      "text": "幹得好。享受製作箭矢的樂趣！"
     }
   },
   "tasks": [

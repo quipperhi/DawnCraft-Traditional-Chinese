@@ -7,7 +7,7 @@
 			"text": "基本技能"
 		},
 		"description": {
-			"text": "Come back after you've fulfilled the requirements - $(red)Kill 10 pillagers$()."
+			"text": "滿足要求後回來 - $(red)殺死 10 名掠奪者$()。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "基本技能"
 		},
 		"description": {
-			"text": "Here, just open the book and learn the skill. If you want to get more skillbooks, I'd suggest doing some of the guard's request. Good luck on your journey."
+			"text": "這裡，只要打開書本，學習技能即可。如果你想獲得更多的技能書，我建議你完成一些衛兵的任務。祝你旅途愉快。"
 		}
 	},
 	"tasks": [

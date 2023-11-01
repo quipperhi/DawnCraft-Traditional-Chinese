@@ -3,10 +3,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Adventurer, can you help me obtain 5 ender pearls?"
+      "text": "冒險家，你能幫我獲得5顆終界珍珠嗎？"
     }
   }
 }
