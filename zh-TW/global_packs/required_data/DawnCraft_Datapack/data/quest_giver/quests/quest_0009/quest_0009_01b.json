@@ -4,10 +4,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Fetching Request"
+      "text": "正在獲取請求"
     },
     "description": {
-      "text": "Could you help me retrieve 4 squid ink sacs?"
+      "text": "你能幫我取回 4 個魷魚墨囊嗎？"
     }
   }
 }
