@@ -4,15 +4,15 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
-      "text": "We have very little information on Knight Rober in his current state, but he should be quite weakened since the last war... Oh, remember to bring ender pearls. He has a nasty attack that can only be escaped via teleportation."
+      "text": "我們對羅伯騎士目前狀態的資訊非常少，但自從上次戰爭以來他應該已經被削弱了很多... 哦，記得帶上終界珍珠。他有令人討厭的攻擊，只能透過傳送來逃脫。"
     }
   },
   "complete": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
       "text": "哇哦，你打敗了羅伯騎士啊。他很難對付嗎？當年他是決鬥中最可怕的對手之一，猜想他的年齡終於追上了他。好吧，下一個眼球持有者是另一個人類。他目前在他的農舍裡過著平靜的生活... 這是他所在位置的地圖。"
