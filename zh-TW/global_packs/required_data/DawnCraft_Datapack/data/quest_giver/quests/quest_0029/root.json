@@ -3,10 +3,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Oy!"
+      "text": "哎喲！"
     },
     "description": {
-      "text": "Oy! Could you cook something for me?"
+      "text": "哎喲！你能為我煮點東西嗎？"
     }
   }
 }
