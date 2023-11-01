@@ -3,10 +3,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hello there, I'm missing some parts to repair my machine. Can you get me $(red)a lever and a copper wrench$()?"
+      "text": "你好，我缺少一些零件來修理我的機器。 你能給我 $(red)一個控制桿和一個銅扳手$() 嗎？"
     }
   }
 }
