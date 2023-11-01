@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Did you get the $(red)5 Ender Pearls$() yet?"
+      "text": "你拿到 $(red)5 顆終界珍珠$() 了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Thanks. Here, for your trouble."
+      "text": "謝謝。這是給你的，以答謝你的幫助。"
     }
   },
   "tasks": [
