@@ -4,15 +4,15 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
-      "text": "The Sentinel Knight protected the Guardian Eye for centuries. None of the adventurers I know ever got past him... I heard that he's holding the key that frees the eye from its dormant state."
+      "text": "幾個世紀以來，哨兵騎士一直保護著守護之眼。我認識的冒險家中沒有一個能超越他... 我聽說他掌握著將眼球從休眠狀態中解放出來的鑰匙。"
     }
   },
   "complete": {
     "title": {
-      "text": "通往眼睛持有者的道路"
+      "text": "尋眼之路"
     },
     "description": {
       "text": "不可思議。即使是哨兵騎士也不是你的對手... 好吧，你的旅程即將結束。你感覺如何？ ... 無論如何，你需要召喚下一個眼球持有者。來，把這搓頭髮和地圖帶到它的召喚祭壇。"
