@@ -7,7 +7,7 @@
       "text": "異國肉"
     },
     "description": {
-      "text": "你取得$(red) 袋鼠肉和袋鼠皮$() 了嗎？"
+      "text": "你取得$(red)袋鼠肉和袋鼠皮$()了嗎？"
     }
   },
   "complete": {
