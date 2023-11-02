@@ -4,7 +4,7 @@
 	"icon": "minecraft:paper",
 	"start": {
 		"title": {
-			"text": "Hello"
+			"text": "哈囉"
 		},
 		"description": {
 			"text": "看來你的合約還沒完成，還是你忘記了你的任務？ 帶給我$()5 顆獸人牙齒$()作為你完成消滅任務的證明。"
@@ -12,7 +12,7 @@
 	},
 	"complete": {
 		"title": {
-			"text": "Here."
+			"text": "這裡。"
 		},
 		"description": {
 			"text": "做得好。我現在沒有更多的任務給你了。要知道邪惡總是潛伏在身邊，保持警覺。"
