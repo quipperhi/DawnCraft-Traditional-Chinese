@@ -6,7 +6,7 @@
       "text": "嘿！"
     },
     "description": {
-      "text": "You look like a good cook. Could you cook something for me? There's a dish called $(red)Hamburger$(), do you know how to prepare that dish?"
+      "text": "你看起來是個擅長烹飪的人。你能替我煮點東西嗎？有一道菜叫$(red)漢堡$()，你知道怎麼做這道菜嗎？"
     }
   }
 }
