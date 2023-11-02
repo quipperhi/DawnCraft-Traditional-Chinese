@@ -7,7 +7,7 @@
 			"text": "那麼？"
 		},
 		"description": {
-			"text": "你有機會收集到那 $(red)10張紙$() 嗎？"
+			"text": "你有機會收集到那$(red)10張紙$()嗎？"
 		}
 	},
 	"complete": {
