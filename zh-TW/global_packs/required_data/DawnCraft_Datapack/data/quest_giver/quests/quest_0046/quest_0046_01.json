@@ -7,7 +7,7 @@
       "text": "哈囉"
     },
     "description": {
-      "text": "It seems you haven't finished your contract yet. Or did you forget what your contract was? Defeat $(red)2 silver beasts$()."
+      "text": "看來你還沒完成你的合約。還是你忘了你的合約內容？擊敗$(red)2個銀獸$()。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "這裡。"
     },
     "description": {
-      "text": "You did well. I can feel the evil forces stopping their advances briefly. But their conquest is never ending, talk to me again if you wish for another contract."
+      "text": "你做得很好。我能感覺到邪惡勢力暫時停止了前進。但他們的征服永無止境，如果你想要另一份合約，再和我聊聊吧。"
     }
   },
   "tasks": [
