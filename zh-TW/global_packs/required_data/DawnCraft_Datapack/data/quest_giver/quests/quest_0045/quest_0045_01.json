@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Did yuo get the $(red)5 Blaze Rods$()? No worries, I know how hard it could be."
+      "text": "你有拿到那$(red)5根烈焰桿$()了嗎？沒關係，我知道那東西很難弄到。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "Well done. These materials are hard to come by here in the village. I'll use them sparingly. Thanks."
+      "text": "做得好。這些材料在村子裡很難取得。我會謹慎地使用它們。謝謝。"
     }
   },
   "tasks": [
