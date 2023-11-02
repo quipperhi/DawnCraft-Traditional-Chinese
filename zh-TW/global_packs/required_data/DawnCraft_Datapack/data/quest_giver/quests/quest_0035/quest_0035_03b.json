@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Sword"
+      "text": "劍"
     },
     "description": {
-      "text": "Inquisitive are we? Well, the truth is... My brother was a wandering trader, a peculiar one. He enjoyed traversing through the Nether dimension... Even though he knew how dangerous it was. One day he left and... never returned. He left a note telling us he's going to a castle in the ash barrens. I was going to go there myself to find out if he's really dead or not, but I'm afraid I'll never return as well. After all, it's been months since his last departure, all I want is a proper closure... He had an artifact called $(light_blue)'Chilling Sword'$(). Do you think you can go to that castle and see if you can find this weapon?"
+      "text": "你是個好奇的人嗎？老實說... 我的兄弟是一個奇特的流浪商人。他喜歡穿越到地獄的維度... 即使他知道那是多麼危險。有一天，他離開了... 且再也沒回來。他留了一張紙條告訴我們他要前往灰燼貧瘠之地的一個城堡。我本來想親自去確認他是否真的死了，但我擔心自己也無法歸來。畢竟，距離他最後一次離開已經好幾個月了，我只想結束這一切... 他有一件叫做$(light_blue)「寒霜之劍(Chilling Sword)」$() 的神器。你能去那座城堡看看是否能找到這把武器嗎？"
     }
   }
 }
