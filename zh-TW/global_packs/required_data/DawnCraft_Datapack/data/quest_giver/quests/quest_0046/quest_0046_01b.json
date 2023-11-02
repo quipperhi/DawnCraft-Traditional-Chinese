@@ -4,10 +4,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Exterminate"
+      "text": "消滅"
     },
     "description": {
-      "text": "There is a new type of evil manifesting in the dimension. These half man, half beasts are called $(red)silver beasts$(). You can find them wandering around at night. Exterminate 2 of these unholy creatures, and come back to me."
+      "text": "這個維度裡出現了一種新的邪惡。這些半人半獸的生物被稱為$(red)銀獸$()。你可以在夜晚找到它們四處徘徊。消滅2個這些不祥的生物，然後回來找我。"
     }
   }
 }
