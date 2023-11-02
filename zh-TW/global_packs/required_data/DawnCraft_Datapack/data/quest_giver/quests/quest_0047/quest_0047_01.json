@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Did you get the $(red)ghast tear$()?"
+      "text": "你拿到$(red)8個幽靈之淚$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Nice, exactly what I needed. Thanks for your help!"
+      "text": "很好，正是我需要的。感謝您的幫忙！"
     }
   },
   "tasks": [
