@@ -7,7 +7,7 @@
       "text": "正在獲取請求"
     },
     "description": {
-      "text": "收集到 $(red) 4 個墨囊$() 後回來。"
+      "text": "收集到$(red)4個墨囊$()後回來。"
     }
   },
   "complete": {
