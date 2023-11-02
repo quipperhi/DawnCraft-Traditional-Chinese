@@ -4,7 +4,7 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Hello"
+      "text": "哈囉"
     },
     "description": {
       "text": "It seems you haven't finished your contract yet. Or did you forget what your contract was? Defeat $(red)2 silver beasts$()."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
       "text": "You did well. I can feel the evil forces stopping their advances briefly. But their conquest is never ending, talk to me again if you wish for another contract."
