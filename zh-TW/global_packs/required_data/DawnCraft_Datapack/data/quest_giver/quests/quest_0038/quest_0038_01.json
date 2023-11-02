@@ -4,7 +4,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Exploration!"
+      "text": "探險！"
     },
     "description": {
       "text": "Return to me when you finish travelling to these 3 biomes: Ancient Sand, Volcanic Peaks, White Mesa"
