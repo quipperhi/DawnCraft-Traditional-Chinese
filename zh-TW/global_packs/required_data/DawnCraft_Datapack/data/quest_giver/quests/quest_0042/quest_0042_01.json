@@ -4,7 +4,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Craft a Compass!"
+      "text": "製作羅盤！"
     },
     "description": {
       "text": "這個任務並不是那麼難，對吧？ 製作一個羅盤。"
@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Good job. Run along now, did you expect a reward?"
+      "text": "幹得好。現在可以離開了，你期待獎賞嗎？"
     }
   },
   "tasks": [

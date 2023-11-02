@@ -7,7 +7,7 @@
       "text": "蘑菇湯！"
     },
     "description": {
-      "text": "你做了 $(red)蘑菇湯$() 了嗎？"
+      "text": "你做了$(red)蘑菇湯$()了嗎？"
     }
   },
   "complete": {

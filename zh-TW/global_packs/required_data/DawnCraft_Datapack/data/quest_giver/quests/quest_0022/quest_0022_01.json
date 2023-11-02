@@ -7,7 +7,7 @@
       "text": "那麼？"
     },
     "description": {
-      "text": "你拿到一塊 $(red)纏敗啞木原木$() 了嗎？"
+      "text": "你拿到一塊$(red)纏敗啞木原木$()了嗎？"
     }
   },
   "complete": {

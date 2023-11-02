@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Incendium"
+      "text": "燎原烈火"
     },
     "description": {
-      "text": "Ah, back so early? Well, have you been to the nether? There is a biome called Ash Barrens in the Nether. See if you can find a castle there, even if you cannot, come back to me. I want to know what that place is like, please."
+      "text": "啊，這麼早就回來了？嗯，你去過地獄了嗎？地獄有一個叫做灰燼貧瘠之地的生態域。看看你能不能在那裡找到一座城堡，即使找不到，也回來找我吧。我想知道那個地方是什麼樣的，謝謝。"
     }
   }
 }

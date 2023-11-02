@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "I need your help retrieving a witch hat, any one would do. Witches seldom drop it."
+      "text": "我需要你的幫助來取得一頂女巫帽，任何一頂都行。女巫很少掉落這個。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "YOU FOOL! NOW LETS BRING DOOM UPON THIS VILLAGE! I TAKE GLORY IN MY SACRIFICE IF IT MEANT BRINGING THIS VILLAGE TO ITS END!"
+      "text": "你這個傻瓜！現在讓我們給這個村莊帶來厄運！如果我的犧牲意味著這個村莊的終結，我會感到光榮！"
     }
   },
   "tasks": [

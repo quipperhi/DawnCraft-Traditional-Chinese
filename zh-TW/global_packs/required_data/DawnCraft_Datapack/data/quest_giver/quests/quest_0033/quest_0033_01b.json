@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Exotic Meat"
+      "text": "異國肉"
     },
     "description": {
-      "text": "Here in the village we usually only get the regular kinds of meat. I've heard that there are creatures called kangaroos that have tender and juicing meat on their tail. Could you get me a piece of their meat? And also I'd like to have a look at their hide as well."
+      "text": "在這個村莊，我們通常只有普通種類的肉。我聽說有一種叫袋鼠的生物，它們的尾巴上有嫩滑多汁的肉。你能給我弄一塊它們的肉嗎？還有，我也想看看它們的皮。"
     }
   }
 }

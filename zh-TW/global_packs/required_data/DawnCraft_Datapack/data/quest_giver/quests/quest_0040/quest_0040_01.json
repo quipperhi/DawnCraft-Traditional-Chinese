@@ -7,15 +7,15 @@
       "text": "不可能的任務！"
     },
     "description": {
-      "text": "Come back when you've tamed an elephant... Actually, if."
+      "text": "當你馴服了一頭大象的時候回來...如果你能的話。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Huh. You actually did it. Well, I heard these giant creatures love acacia blossoms. Here, don't ask why I've got them."
+      "text": "嗯，你居然做到了。我聽說這些巨型生物喜歡相思花。拿去吧，別問我為什麼有這些。"
     }
   },
   "tasks": [

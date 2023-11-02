@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hello, can you help me get a $(red)ghast tear$()? I need it for my medical research."
+      "text": "哈囉，你能幫我弄到一顆$(red)幽靈之淚$()嗎？我需要它進行我的醫學研究。"
     }
   }
 }

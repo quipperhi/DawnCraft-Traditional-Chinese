@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Foreign Outlaws"
+      "text": "異國法外狂徒"
     },
     "description": {
-      "text": "Can you fetched me a piece of paper for me? I'll draw you a map."
+      "text": "你能拿一張紙給我嗎？我給你畫一張地圖。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
-      "text": "Here, the group of foreign outlaws built a place where the marker is. Go and take out the leader."
+      "text": "在這裡，異國法外狂徒在標記的地方建立了據點。去把首領解決掉吧。"
     }
   },
   "tasks": [

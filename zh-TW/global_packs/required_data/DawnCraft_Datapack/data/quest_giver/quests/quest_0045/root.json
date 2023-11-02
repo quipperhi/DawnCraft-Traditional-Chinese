@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hello there, could you help me get $(red)5 blaze rods$()? from the Nether dimension?"
+      "text": "嗨，你能幫我弄來$(red)5根烈焰桿$()嗎？在地獄維度？"
     }
   }
 }

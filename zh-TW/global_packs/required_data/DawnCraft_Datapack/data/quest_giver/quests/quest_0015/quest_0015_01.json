@@ -7,7 +7,7 @@
       "text": "所以？"
     },
     "description": {
-      "text": "你拿到 $(red)5 顆終界珍珠$() 了嗎？"
+      "text": "你拿到$(red)5顆終界珍珠$()了嗎？"
     }
   },
   "complete": {

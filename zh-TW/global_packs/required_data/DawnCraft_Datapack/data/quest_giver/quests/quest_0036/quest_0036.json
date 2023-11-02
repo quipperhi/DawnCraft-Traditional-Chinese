@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "A Friendly Chat"
+      "text": "友善的交談"
     },
     "description": {
-      "text": "Did you know that the cutting board can be used with a knife to cut down most food ingredients into smaller ingredients? It's worth experimenting a bit with not only food, but other resources such as logs or equipments!"
+      "text": "你可知道砧板能和刀一起使用，將大多數食材切成更小塊的食材？不僅可以用來處理食物，還可以用來處理其他資源，像是木材或裝備！"
     }
   }
 }

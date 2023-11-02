@@ -7,7 +7,7 @@
       "text": "那麼？"
     },
     "description": {
-      "text": "你拿到 $(red)8根骨頭$() 了嗎？"
+      "text": "你拿到$(red)8根骨頭$()了嗎？"
     }
   },
   "complete": {
