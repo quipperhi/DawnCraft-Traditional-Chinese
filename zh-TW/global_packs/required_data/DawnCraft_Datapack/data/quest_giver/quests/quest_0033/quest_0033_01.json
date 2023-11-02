@@ -7,7 +7,7 @@
       "text": "異國肉"
     },
     "description": {
-      "text": "你有$(red)袋鼠肉和袋鼠皮嗎$()？"
+      "text": "你取得$(red)袋鼠肉和袋鼠皮$()了嗎？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "恭喜！"
     },
     "description": {
-      "text": "Ahh... so this is what kangaroo is like. A tender piece of meat indeed... The hide on the other hand isn't as good as the regular leather we use. A good trophy though... Thanks a lot adventurer. I don't have much to give you... Here, take these beef slices. The carcass just came in today so it's fresh!"
+      "text": "啊... 這就是袋鼠的樣子。確實是一塊嫩肉... 不過皮毛沒有我們通常使用的皮革那麼好。但它是個不錯的獎品... 非常感謝你，冒險家。我沒有什麼可以給你的... 來，把這些牛肉片拿走。今天剛到的屍體，很新鮮！"
     }
   },
   "tasks": [
