@@ -4,15 +4,15 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "So, got the scute?"
+      "text": "那麼，有鱗甲了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "噢，看看我們這裡有什麼。希望那個任務沒有讓你留下任何傷疤，哈哈！ 這是你的獎勵，我聽說你們這種人喜歡鑽石。"
