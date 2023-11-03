@@ -7,7 +7,7 @@
       "text": "造船"
     },
     "description": {
-      "text": "Remember, the boat has to be made with the material $(red)Blighted Balsa$()."
+      "text": "記住，船必須使用$(red)受感染的筏木$()材料製作。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "謝了！"
     },
     "description": {
-      "text": "It's passable, could use a little more work. But this will do, thanks. Here's your reward, think you'll like it."
+      "text": "還行，需要再加工一下。但這樣也可以，謝謝。這是你的獎勵，我想你會喜歡的。"
     }
   },
   "tasks": [
