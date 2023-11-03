@@ -4,18 +4,18 @@
   "icon": "supplementaries:slingshot",
   "start": {
     "title": {
-      "text": "Slingshot Crafting"
+      "text": "彈弓製作"
     },
     "description": {
-      "text": "Couldn't make the $(red)Slingshot$() yet huh? Well I get it... A good one is strangely difficult to make."
+      "text": "還不能做出$(red)彈弓$()嗎？嗯，我明白...製作一個好的似乎出奇地困難。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Yes, this is exactly what I have imagined it to be! Hm... It doesn't seem that impressive. Seems like it uses stones as ammo... Well, here you go, I don't really need it. Thanks for showing it to me!"
+      "text": "是的，這正是我想像中的樣子！嗯...它似乎不太令人印象深刻。看起來像是使用石頭作為彈藥...。好吧，給你，我不是真的需要它。謝謝你給我看。"
     }
   },
   "tasks": [
