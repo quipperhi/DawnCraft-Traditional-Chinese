@@ -4,7 +4,7 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "幫助"
     },
     "description": {
       "text": "Fantastic. Could you cook a dish called $(red)Honey Glaze Ham$()? Me and my friends are dying to taste this dish again."
