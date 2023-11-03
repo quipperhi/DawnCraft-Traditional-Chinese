@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Slingshot Crafting"
+      "text": "彈弓製作"
     },
     "description": {
-      "text": "That's right - Slingshot! I have been trying to get one working, but seems I lack the craftmanship needed to create a usable replica. Can you give it a try?"
+      "text": "沒錯 - 彈弓！我一直嘗試弄一個出來，但我似乎缺乏製作可用仿製品所需的技巧。你能試試嗎？"
     }
   }
 }
