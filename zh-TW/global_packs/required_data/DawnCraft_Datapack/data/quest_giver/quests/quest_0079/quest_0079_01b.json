@@ -4,10 +4,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Extermination Request"
+      "text": "消滅請求"
     },
     "description": {
-      "text": "Creepers are spawning more frequently around here at night... They don't harm us but they scare away our poor lambs. Can you exterminate them at night? I'll give you payments once you've reached 6 kills."
+      "text": "苦力怕在晚上在這裡生成的頻率更高...它們不會傷害我們，但會嚇跑我們可憐的小羊。你能在晚上消滅它們嗎？一旦你擊殺數達到6次，我就會給你報酬。"
     }
   }
 }
