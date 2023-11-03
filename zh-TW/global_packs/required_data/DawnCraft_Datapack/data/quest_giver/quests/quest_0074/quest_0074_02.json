@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "I need another one of your $(red)spirit orbs$()."
+      "text": "我需要你的另一個$(red)試煉通過證$()。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Haha... young man, you're too gullible. Don't place your trust in someone you've barely talked to. I'll return the orbs to you since I feel bad, but remember this: Not everyone is as nice as me."
+      "text": "哈哈...年輕人，你太容易相信人了。不要太信任一個你幾乎沒有交談過的人。因為我感到內疚，我會把這些球還給你，但請記住：並不是每個人都像我這麼好心。"
     }
   },
   "tasks": [
