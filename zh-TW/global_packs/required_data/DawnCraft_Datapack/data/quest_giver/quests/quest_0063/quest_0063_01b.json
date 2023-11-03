@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Arrow Craftsmanship"
+      "text": "箭矢工藝"
     },
     "description": {
-      "text": "Did you know that spruce wood is the best for making the shaft of an arrow? Well doesn't matter either way. Could you get me some of those logs? I need at least 4."
+      "text": "你知道嗎，杉木是製作箭矢箭桿的最佳選擇？不管你知不知道，你能給我弄些這種樹木的原木嗎？我需要至少4個。"
     }
   }
 }
