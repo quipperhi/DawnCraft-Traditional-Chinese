@@ -4,7 +4,7 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Stones from Another Dimension"
+      "text": "來自異世界的石頭"
     },
     "description": {
       "text": "Got the $(red)lunar stone$() yet? You can find them in the Everdawn dimension."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "Thanks. The quality is... subpar. I'll think of other uses for it."
