@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_pickaxe",
 	"start": {
 		"title": {
-			"text": "help"
+			"text": "幫助"
 		},
 		"description": "Haha, I knew it! Brave adventurer, if you ever come across an Maze-like ice biome, look for the $(red)Ghost of Captain Cornelia$(). I'll give you a fortune if you manage to defeat it with your melee."
 	}

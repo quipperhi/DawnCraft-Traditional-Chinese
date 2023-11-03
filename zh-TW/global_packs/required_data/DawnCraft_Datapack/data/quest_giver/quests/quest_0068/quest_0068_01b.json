@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "幫助"
     },
     "description": {
-      "text": "Fantastic. Could you cook a dish called $(red)Honey Glaze Ham$()? Me and my friends are dying to taste this dish again."
+      "text": "太棒了。你能做一道叫做$(red)蜜汁火腿$()的菜嗎？我和我的朋友們都渴望再次品嚐這道菜。"
     }
   }
 }

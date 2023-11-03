@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Hello, did you get the$(red) 2 beetroots$()?"
+      "text": "哈囉，你拿到$(red)2根甜菜根$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Thanks."
+      "text": "謝謝。"
     }
   },
   "tasks": [

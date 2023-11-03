@@ -4,18 +4,18 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "You got the goods yet? $(red)2 Black Bear Fur$()."
+      "text": "你取得貨了嗎？$(red)2張黑熊皮$()。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Thanks. Here, pleasure doing business with you."
+      "text": "謝謝。這邊，和你做生意很開心。"
     }
   },
   "tasks": [

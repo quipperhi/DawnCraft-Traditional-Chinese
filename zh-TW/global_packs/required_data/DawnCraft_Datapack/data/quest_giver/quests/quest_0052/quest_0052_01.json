@@ -4,18 +4,18 @@
 	"icon": "minecraft:wheat_seeds",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "Forgot already? Don't worry let me remind you. I need a $(red)straw bale$()."
+			"text": "已經忘了嗎？別擔心，讓我提醒你一下。我需要一捆$(red)稻梗捆$()。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "謝了！"
 		},
 		"description": {
-			"text": "A straw bale! Now we can make ourselves brand new straw hats! Thanks stranger."
+			"text": "稻梗捆！現在我們可以製作新的草帽了！謝謝，陌生人。"
 		}
 	},
 	"tasks": [

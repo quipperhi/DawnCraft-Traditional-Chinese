@@ -4,18 +4,18 @@
 	"icon": "minecraft:cod",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那麼？"
 		},
 		"description": {
-			"text": "Did you get the redstone dust? I think I just need 1."
+			"text": "你弄到紅石粉了嗎？我想我只需要1個。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "謝了！"
 		},
 		"description": {
-			"text": "Thanks! Here's for your trouble."
+			"text": "謝謝！這是給你的，以答謝你的幫助。"
 		}
 	},
 	"tasks": [

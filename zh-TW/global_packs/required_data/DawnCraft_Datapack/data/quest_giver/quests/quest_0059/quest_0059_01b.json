@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Time Tracking"
+      "text": "記錄時間"
     },
     "description": {
-      "text": "I heard there are things that help you keep track of time. Those are called... what was it, oh right - $(red)Hourglass$()! Can you get me one of those?"
+      "text": "我聽說有些東西可以幫助記錄時間。那叫做...叫做什麼來著，對了 - $(red)沙漏$()！你能弄一個給我嗎？"
     }
   }
 }

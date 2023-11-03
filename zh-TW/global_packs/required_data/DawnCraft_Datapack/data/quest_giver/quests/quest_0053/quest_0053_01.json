@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Did you get the $(red)2 onions$()?"
+      "text": "你拿到$(red)2個洋蔥$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Good job, boy. Get me $(red)2 melon seeds$() as well?"
+      "text": "幹得好，孩子。 也給我$(red)2顆西瓜種子$()好嗎？"
     }
   },
   "tasks": [

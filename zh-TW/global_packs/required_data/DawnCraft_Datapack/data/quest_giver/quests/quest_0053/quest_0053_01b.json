@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Hello"
+      "text": "哈囉"
     },
     "description": {
-      "text": "Great, could you get me $(red)2 onions$()?"
+      "text": "太好了，你能給我$(red)2個洋蔥$()嗎？"
     }
   }
 }
