@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Did you get the $(red)2 melon seeds$()?"
+      "text": "你拿到$(red)2顆西瓜種子$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Get me 4 sweet berries as well? Villagers like myself can't risk going into the woods to collect these.   *You hear the villager chuckle as he finishes his sentence.*"
+      "text": "也能幫我弄四顆甜莓嗎？像我這樣的村民不敢冒險進入樹林去採集。 *當他說完這句話時，你聽到村民輕笑一聲。*"
     }
   },
   "tasks": [
