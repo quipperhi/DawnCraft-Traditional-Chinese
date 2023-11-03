@@ -4,7 +4,7 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "help"
+      "text": "幫助"
     },
     "description": {
       "text": "Great! I need $(red)2 Patches of Hemlock$(). It's too toxic for most animals, but not for the vile beast that I'm hunting..."
