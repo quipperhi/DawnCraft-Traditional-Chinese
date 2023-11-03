@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Arrow Craftsmanship"
+      "text": "箭矢工藝"
     },
     "description": {
-      "text": "Did you get $(red)the 4 spruce logs$() yet?"
+      "text": "你拿到$(red)4個杉木原木$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Good job. Here's an emerald for your work."
+      "text": "幹得好。這是一顆綠寶石作為你的酬勞。"
     }
   },
   "tasks": [
