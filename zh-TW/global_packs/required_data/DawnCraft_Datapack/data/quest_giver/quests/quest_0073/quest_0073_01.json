@@ -4,18 +4,18 @@
 	"icon": "minecraft:book",
 	"start": {
 		"title": {
-			"text": "Knowledge in Forestry"
+			"text": "林業知識"
 		},
 		"description": {
-			"text": "The 3 types of leaves to retrieve are: $(red)Dusk Leaves, Maple Leaves, Starlit Leaves$()."
+			"text": "需要收集的3種樹葉分別是：$(red)暮光樹葉、楓樹葉和星瑩樹葉$()。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "謝了！"
 		},
 		"description": {
-			"text": "That is fascinating! How is it the case that there are common traits in plants that grow in completely different environments? Anyway, here's your reward."
+			"text": "真是令人驚奇！在完全不同的環境中生長的植物居然有共同特點。無論如何，這是你的獎賞。"
 		}
 	},
 	"tasks": [

@@ -4,18 +4,18 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Stones from Another Dimension"
+      "text": "來自異世界的石頭"
     },
     "description": {
-      "text": "Got the $(red)lunar stone$() yet? You can find them in the Everdawn dimension."
+      "text": "拿到$(red)明月石$()了嗎？你可以在恆曉之地維度找到它們。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Thanks. The quality is... subpar. I'll think of other uses for it."
+      "text": "謝謝。品質…不怎麼樣。我會考慮其他用途。"
     }
   },
   "tasks": [

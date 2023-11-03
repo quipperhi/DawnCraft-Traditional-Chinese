@@ -4,18 +4,18 @@
   "icon": "minecraft:ancient_debris",
   "start": {
     "title": {
-      "text": "Debris Fetching"
+      "text": "遺骸搜尋"
     },
     "description": {
-      "text": "Did you get your hands on an $(red)ancient debris$() yet?"
+      "text": "你已經弄到$(red)遠古遺骸$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "This... this is amazing! Here, take my emeralds."
+      "text": "這...這太驚人了！拿去我的綠寶石。"
     }
   },
   "tasks": [

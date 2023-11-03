@@ -7,15 +7,15 @@
       "text": "取回珍貴物品"
     },
     "description": {
-      "text": "Please get me a piece of paper so I can draw you a map."
+      "text": "請幫我弄一張紙，這樣我才可以畫一張地圖給你。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
-      "text": "Sorry for the trouble. Here is the place I want you to go. There is a book there that belonged to me. That place used to be a temple filled with scholars from all around the dimension, but I don't know how it is now. Please proceed with caution, and bring me my book."
+      "text": "對不起，給你添麻煩了。這是我想讓你去的地方。那裡有一本書曾經屬於我。那個地方曾經是一個充滿來自這個維度各地的學者的寺廟，但我不知道現在怎麼樣了。請小心前行，並將我的書帶回來。"
     }
   },
   "tasks": [
