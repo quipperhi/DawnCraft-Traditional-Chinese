@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Spices seem to be the new craze in this village... I'm looking to grow the hottest pepper known and make a profit, haha! Have you heard of a kind of pepper called 'ghost pepper' that can be found the Nether? Well, I need you to collect $(red)3 of those ghost peppers$() and bring them to me."
+      "text": "調味料似乎成了這個村莊的新風潮...我打算種植最辣的辣椒，然後賺錢，哈哈！你聽說過一種叫做「鬼椒」的辣椒嗎？它可以在地獄中找到。嗯，我需要你去收集$(red)3個鬼椒$()，然後把它們帶給我。"
     }
   }
 }
