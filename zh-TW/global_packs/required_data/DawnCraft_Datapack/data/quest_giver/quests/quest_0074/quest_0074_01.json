@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "A Bizarre Request"
+      "text": "一個奇怪的請求"
     },
     "description": {
-      "text": "Could I have 1 of your $(red)spirit orbs$()?"
+      "text": "我可以得到一個你的$(red)試煉通過證$()嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "The structure of this is too complicated... Would you mind giving me another one of these?"
+      "text": "這個結構太複雜了...。你介意再給我一個嗎？"
     }
   },
   "tasks": [
