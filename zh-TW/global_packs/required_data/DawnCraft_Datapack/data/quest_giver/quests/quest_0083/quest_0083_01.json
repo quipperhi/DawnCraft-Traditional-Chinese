@@ -7,15 +7,15 @@
       "text": "珍貴的物品"
     },
     "description": {
-      "text": "Please get me a piece of $(red)paper$()."
+      "text": "請給我一張$(red)紙$()。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Here ya go, please return to me my beloved axe. It was my finest work yet."
+      "text": "給你，請把我心愛的斧頭還給我。這是我至今為止做的最好的作品。"
     }
   },
   "tasks": [
