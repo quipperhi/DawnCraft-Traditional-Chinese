@@ -4,7 +4,7 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
       "text": "Did you get the $(red)Spore Blossom$() yet?"
@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Thanks a lot."
+      "text": "多謝了。"
     }
   },
   "tasks": [
