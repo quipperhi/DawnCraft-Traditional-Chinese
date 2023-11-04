@@ -4,18 +4,18 @@
 	"icon": "minecraft:ender_pearl",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那麼？"
 		},
 		"description": {
-			"text": "Please let me take a look once you've obtained the $(red)dragon egg$()."
+			"text": "一旦你獲得了$(red)龍蛋$()，請讓我看看。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "感謝！"
 		},
 		"description": {
-			"text": "Sorry to do this to you, my friend... But I need it. Goodbye."
+			"text": "很抱歉這麼做，我的朋友...，但我需要它。再見。"
 		}
 	},
 	"tasks": [
