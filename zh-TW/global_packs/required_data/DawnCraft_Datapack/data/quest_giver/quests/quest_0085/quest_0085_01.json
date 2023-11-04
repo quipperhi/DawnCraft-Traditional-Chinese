@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Log Gathering"
+      "text": "原木採集"
     },
     "description": {
       "text": "Did you get the $(red)Crimson Wood Stem$()?"
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
       "text": "Thanks! I don't have emeralds at the moment... Will you take this diamond pickaxe? I just made it a few hours ago."
