@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
       "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
       "text": "Good job! This is one of its eye alright... Let's see, I'll teach you the combat skill - Guard, as payment. It's one of the most important skills one could learn in this dimension."

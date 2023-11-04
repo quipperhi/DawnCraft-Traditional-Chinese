@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "I need an $(red)Iron Axe$() to work!"
+      "text": "我需要一把$(red)鐵斧$()來工作！"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Thanks. Here, is 4 emeralds enough?"
+      "text": "謝了。來來來，4顆綠寶石夠嗎？"
     }
   },
   "tasks": [

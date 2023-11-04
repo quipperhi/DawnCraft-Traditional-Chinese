@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_axe",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那麼？"
 		},
 		"description": {
-			"text": "Did you get me my iron axe yet? Please hurry."
+			"text": "你有給我找到鐵斧嗎？趕緊的。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "謝了！"
 		},
 		"description": {
-			"text": "YES! This is the axe I've made... I've never been able to top this, you know. Anyway, here's your reward. I appreciate your help."
+			"text": "是的！這就是我做的斧頭...，我從未能夠做的比這把更好，你知道。無論如何，這是你的獎勵。我感激你的幫助。"
 		}
 	},
 	"tasks": [

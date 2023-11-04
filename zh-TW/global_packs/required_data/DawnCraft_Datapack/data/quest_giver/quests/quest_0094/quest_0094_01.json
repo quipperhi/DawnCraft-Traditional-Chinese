@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "Come back to me once you've made the dish $(red)Ennegel Pasta$(). I'll pay you handsomely for it."
+      "text": "一旦你做好$(red)恩尼奇爾義大利麵$()這道料理，請回到我這裡。我會給你豐富的報酬。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "This flavor...! Just like my ma's cooking... Thank you adventurer, you have no idea how grateful I am for this. Here, take this. It's a katana forged with ender power. I doubt there's a weapon out there stronger than this one."
+      "text": "這個味道...！就像我媽媽做的一樣...。謝謝你，冒險者，你無法想像我有多感激。拿著這個吧。這是用終界力量鍛造的武士刀。我懷疑是否還有比這更強大的武器。"
     }
   },
   "tasks": [

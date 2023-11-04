@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "你好，又見面了！"
     },
     "description": {
-      "text": "Brave man. Please give me a piece of paper so I can show you where the creature is at."
+      "text": "勇敢的人。請給我一張紙，我就能讓你知道那生物的位置。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
-      "text": "Here, the cleric is the one who provided us with this information though. So I'm not sure if it's completely accurate. Either way, find this creature, kill it, and bring back whatever it drops."
+      "text": "這裡的消息是由神職人員提供的，所以我不確定是否完全準確。不管怎樣，找到這個生物，殺死它，然後帶回它的掉落物。"
     }
   },
   "tasks": [

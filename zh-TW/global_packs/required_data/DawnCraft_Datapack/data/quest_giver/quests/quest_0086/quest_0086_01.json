@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Urgent Request"
+      "text": "緊急請求"
     },
     "description": {
-      "text": "Did you get the $(red)16 iron ingots$()? Please hurry."
+      "text": "$(red)16塊鐵錠$()你拿到了嗎？ 拜託快點。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Thank you, I know that I shouldn't be asking an adventurer to help with resource gathering... But I don't have much choice. The pillager army is closing in, they're coming to this village soon... Let me know if you want an extermination contract, I'll be happy to offer."
+      "text": "謝謝，我知道我不應該讓冒險家幫忙收集資源...，但我也沒有什麼選擇。掠奪者大軍正在逼近，他們很快就會來到這個村莊，如果你想要一份殲滅任務，請告訴我，我很樂意提供。"
     }
   },
   "tasks": [

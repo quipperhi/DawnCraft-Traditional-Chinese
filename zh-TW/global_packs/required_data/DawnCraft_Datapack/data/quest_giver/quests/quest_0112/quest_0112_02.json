@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "你好，又見面了！"
     },
     "description": {
       "text": "Did you do it? Did you kill the $(red)half wolf?$()"
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
       "text": "Thanks. I'll take your word for it. I'm glad to know that no one else will fall victim to these horrible monsters from now on."

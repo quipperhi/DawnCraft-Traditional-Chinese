@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "Lost Child"
+			"text": "失蹤的孩子"
 		},
 		"description": {
-			"text": "Save the child, please. Bring him home."
+			"text": "請救救孩子。帶他回家。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Lost Child: Complete"
+			"text": "失蹤的孩子：完成"
 		},
 		"description": {
-			"text": "Amazing! You've actually did it! To be honest I wasn't optimistic about the kid's survival... Here, I'll teach you a new skill - Swordmaster. It's the only way I could repay you."
+			"text": "太棒了！你居然做到了！說實話，我對孩子的生存情況並不樂觀...。這裡，我會教你一項新技能 - 劍術大師。這是我唯一能夠報答你的方式。"
 		}
 	},
 	"tasks": [

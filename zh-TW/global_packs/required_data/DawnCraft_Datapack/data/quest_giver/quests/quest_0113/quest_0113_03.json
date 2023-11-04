@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "你好，又見面了！"
     },
     "description": {
       "text": "Still working on it! Did you get the stick yet?"
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "這裡。"
     },
     "description": {
       "text": "Here you go. This might be my best work so far, heh."

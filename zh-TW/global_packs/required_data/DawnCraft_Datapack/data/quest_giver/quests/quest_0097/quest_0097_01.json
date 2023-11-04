@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那麼？"
     },
     "description": {
-      "text": "I'm sorry for the vague description... But the issue is I don't know where the structure is or what it looks like. It's a villager castle with create contraption, I believe you'll know it when you see it."
+      "text": "對於模糊的描述，我感到抱歉... 。問題是我不知道這個結構位於哪裡或是什麼樣子。它是一個擁有動力機械的裝置的村民城堡，我相信你看到時就會知道了。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "That is fascinating! However, I do not think these villagers built it themselves, they don't have an engineer with them... Someone is keeping them there. Either way, thanks a lot. Here's a cookie."
+      "text": "這實在太有趣了！不過，我不認為這些村民自己建造的，他們身邊沒有工程師...，肯定是有人把他們關在那裡。不管怎樣，非常感謝。這是一塊餅乾。"
     }
   },
   "tasks": [

@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Log Gathering"
+      "text": "原木採集"
     },
     "description": {
-      "text": "Did you get the $(red)Crimson Wood Stem$()?"
+      "text": "你拿到$(red)緋紅蕈柄$()了嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝謝！"
     },
     "description": {
-      "text": "Thanks! I don't have emeralds at the moment... Will you take this diamond pickaxe? I just made it a few hours ago."
+      "text": "謝謝！我現在沒有綠寶石...。你接受這把鑽石鎬嗎？我剛剛幾小時前才做好的。"
     }
   },
   "tasks": [
