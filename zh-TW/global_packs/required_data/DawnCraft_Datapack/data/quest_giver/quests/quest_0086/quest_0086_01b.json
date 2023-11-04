@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Urgent Request"
+      "text": "緊急請求"
     },
     "description": {
-      "text": "Evil is coming. Can you help me get 16 iron ingot? I need to make more weapons for the guards... We're not prepared."
+      "text": "邪惡即將到來。你能幫我弄到16個鐵錠嗎？我需要為衛兵製造更多武器...。我們還沒準備好。"
     }
   }
 }
