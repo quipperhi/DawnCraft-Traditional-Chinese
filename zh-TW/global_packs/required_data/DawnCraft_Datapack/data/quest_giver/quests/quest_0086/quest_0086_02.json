@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Extermination Contract"
+      "text": "殲滅任務"
     },
     "description": {
-      "text": "Please come back when you finished the extermination contract - $(red)Kill 5 Pillagers$()."
+      "text": "請在完成殲滅任務後回來 - $(red)殺死5名掠奪者$()。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Than- ... It seems the time has come. The pillagers are here. Comrade, I've forged this greatsword for times like this. Please put it into good use, and help us. All of our lives depend on you now."
+      "text": "謝...。看來時機到了。掠奪者已經來了。同志，為了這個時刻，我打造了這把大劍。請好好利用它，幫助我們。現在我們的死活，全都掌握在你手中。"
     }
   },
   "tasks": [
