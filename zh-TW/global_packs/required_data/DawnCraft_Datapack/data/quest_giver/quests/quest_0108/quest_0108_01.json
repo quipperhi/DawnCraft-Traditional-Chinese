@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那麼？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Energizing Guard for 15 emeralds."
+			"text": "我可以教你技能－強化防禦，15顆綠寶石。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "謝謝！"
 		},
 		"description": {
-			"text": "Here you go."
+			"text": "給你！"
 		}
 	},
 	"tasks": [
