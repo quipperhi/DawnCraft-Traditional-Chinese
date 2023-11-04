@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Netherite Ingot"
+      "text": "獄髓錠"
     },
     "description": {
-      "text": "Do you have the $(red)netherite ingot$()?"
+      "text": "你有$(red)獄髓錠$()嗎？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "謝了！"
     },
     "description": {
-      "text": "Thanks. Here, take some emeralds."
+      "text": "謝謝。來，拿一些綠寶石。"
     }
   },
   "tasks": [
