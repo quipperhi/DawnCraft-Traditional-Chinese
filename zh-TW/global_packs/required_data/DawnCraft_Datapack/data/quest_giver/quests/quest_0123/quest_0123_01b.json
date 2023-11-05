@@ -4,8 +4,8 @@
 	"icon": "minecraft:iron_pickaxe",
 	"start": {
 		"title": {
-			"text": "Sculk"
+			"text": "伏聆"
 		},
-		"description": "While I was out mining, I found something strange deep under the deepslates. Infested spores and sharp shrieking sounds surrounded the area. I heard from other miners that these infestations are called $(red)sculks$(), and that I was lucky to make it out alive... However, I am fascinated by the shrieking sounds and infestations. Would it be possible for you to get me one of those $(red)sculk shriekers$() from the Deep Dark?"
+		"description": "當我出去挖礦時，在深板岩深處下發現了一些奇怪的東西。感染孢子和尖銳的尖叫聲充滿了這個區域。我聽其他礦工說，這些感染被稱為$(red)伏聆$()，而我能活著出來真是太幸運了...。不過，我對那些尖叫聲和感染非常著迷。你能從深淵給我弄一個$(red)伏聆嘯口$()嗎？"
 	}
 }
