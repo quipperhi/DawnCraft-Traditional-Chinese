@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一項提議"
     },
     "description": {
-      "text": "4 Emeralds, and I'll show you where you can find the materials needed to summon Ignis."
+      "text": "4顆綠寶石，我就會告訴你可以在哪裡找到召喚焰魔所需的材料。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "謝謝！"
     },
     "description": {
-      "text": "Here it is. Don't summon that abomination near this village. And remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Don't ask me why... I have no clue."
+      "text": "地圖拿去。不要在這個村莊附近召喚那個可怕的東西。而且記住，這張地圖只有在地獄維度打開才能使用。在這裡展開地圖只會得到一張空白地圖。別問我為什麼...，窩不知道。"
     }
   },
   "tasks": [
