@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一份邀請"
     },
     "description": {
-      "text": "6 Emeralds if you want me to show you where the Monstrosity is in the Nether Dimension."
+      "text": "如果你想要我在地獄維度上給你標示怪物的位置，那就需要6顆綠寶石。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "謝謝！"
     },
     "description": {
-      "text": "Here you go, happy hunting! Remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Sure is confusing, ey?"
+      "text": "給你，祝你好運！記住，這張地圖只有在地獄維度中打開才有效。如果你在這裡打開地圖，它將是一張空白地圖。確實令人困惑，對吧？"
     }
   },
   "tasks": [
