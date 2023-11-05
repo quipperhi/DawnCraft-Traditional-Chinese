@@ -4,8 +4,8 @@
 	"icon": "minecraft:iron_pickaxe",
 	"start": {
 		"title": {
-			"text": "Dragon Heart"
+			"text": "龍之心"
 		},
-		"description": "I happen to have something you might be interested in - Spirit Orbs. They're practically useless to me. But I fancy that adventurers like you would die to get your hands on that... right? I'll make ya a deal. Get me a $(red)Fire Dragon Heart$(). And I'll give you all the orbs I've got. Fair enough?"
+		"description": "我碰巧有你可能感興趣的東西 - 試煉通過證。那些東西對我來說幾乎沒什麼用。但我猜像你這樣的冒險家一定會為了得到它們而不擇手段...，對吧？我們可以做個交易。給我弄到一顆$(red)火龍之心$()，我就把我擁有的所有試煉通過證都給你。很公平吧？"
 	}
 }

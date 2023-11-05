@@ -7,7 +7,7 @@
       "text": "那麼？"
     },
     "description": {
-      "text": "Could you fetch me a piece of paper? I'll draw you a map."
+      "text": "你能拿一張紙給我嗎？我畫一張地圖給你。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Please go to this location and try to... extract the gems from the creature. Bring me the gems please. I'll make sure that it'll be worth your while."
+      "text": "請前往這個地點，試著...從這個生物身上取出寶石。請把寶石帶回來。我保證你的付出會是值得的。"
     }
   },
   "tasks": [

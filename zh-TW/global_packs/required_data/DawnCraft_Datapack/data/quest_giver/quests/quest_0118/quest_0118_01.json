@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "龍之心"
     },
     "description": {
-      "text": "Don't ask me why. It's none of your concern, kiddo. Just get me the $(red)Fire Dragon Heart$()."
+      "text": "別問我為什麼。這不關你的事，孩子。給我$(red)火龍之心$()。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "謝了！"
     },
     "description": {
-      "text": "Knew I could count on ya. Here ya go."
+      "text": "我就知道我可以相信你。給你。"
     }
   },
   "tasks": [

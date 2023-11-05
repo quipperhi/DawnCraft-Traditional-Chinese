@@ -4,8 +4,8 @@
 	"icon": "minecraft:iron_pickaxe",
 	"start": {
 		"title": {
-			"text": "Dragon Heart"
+			"text": "龍之心"
 		},
-		"description": "I came across a rather strange miner a while back. He offered me 2 spirit orbs for a map to the ocean monument... I gave him the map and obtained these useless orbs, now I'm looking to get rid of them. Brave adventurer, could you get me the heart of an $(red)Ice Dragon$()? It's invaluable for my research... I'll give you some time to think about it."
+		"description": "不久前，我遇到了一名相當奇怪的礦工。他向我提議，用兩顆試煉通過證交換一張通往海底神殿的地圖，我給了他地圖拿到這些沒用的珠子，現在我不想留著它們。勇敢的冒險家，你能幫我弄到一顆$(red)冰龍之心$()嗎？它對我的研究來說是無價之寶...。我會給你些時間來考慮。"
 	}
 }

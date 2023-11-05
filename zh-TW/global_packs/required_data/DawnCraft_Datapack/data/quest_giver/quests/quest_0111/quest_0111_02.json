@@ -7,7 +7,7 @@
       "text": "所以？"
     },
     "description": {
-      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
+      "text": "你已經消滅了洞穴居民了嗎？如果是的話，把它的掉落物帶給我。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "謝了！"
     },
     "description": {
-      "text": "Good job! This is one of its eye alright... Let's see, I'll teach you the combat skill - Guard, as payment. It's one of the most important skills one could learn in this dimension."
+      "text": "幹得好！這確實是它的眼睛...。讓我看看，作為報酬，我將教給你戰鬥技能 - 防禦。這是這個維度中最重要的技能之一。"
     }
   },
   "tasks": [

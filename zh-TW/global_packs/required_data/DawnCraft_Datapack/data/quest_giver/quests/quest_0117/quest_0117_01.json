@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一項提議"
     },
     "description": {
-      "text": "25 Emeralds, and I'll teach you how to dual wield greatswords."
+      "text": "25顆綠寶石，我就教你如何雙持大劍。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Nice doing business with you. Be careful not to break your back though."
+      "text": "很高興和你做生意。不過要小心不要傷到自己。"
     }
   },
   "tasks": [

@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "龍之心"
     },
     "description": {
-      "text": "I've seen these ice dragons once. Terrifying beings... Yet their essences are so majestically alluring. I must investigate the elements within it."
+      "text": "我曾經見過這些冰龍。令人恐懼的存在...。然而它們的精華是如此的壯麗迷人。我必須研究其中的元素。"
     }
   },
   "complete": {

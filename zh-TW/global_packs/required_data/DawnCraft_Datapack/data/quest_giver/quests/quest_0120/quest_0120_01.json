@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "龍之心"
     },
     "description": {
-      "text": "The map to the summoning podium will cost you 5 emeralds."
+      "text": "召喚祭壇的地圖需要5顆綠寶石。"
     }
   },
   "complete": {
