@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一項提議"
     },
     "description": {
-      "text": "When I was in the Nether Dimension, I found a peculiar structure with a monstrous golem dwelling inside. I'll show you where it is on the map if you give me 6 emeralds."
+      "text": "當我在地獄維度時，我發現了一個奇特的結構，裡面住著一個巨大的魔像。如果你給我6顆綠寶石，我就會在地圖上給你標示它的位置。"
     }
   }
 }
