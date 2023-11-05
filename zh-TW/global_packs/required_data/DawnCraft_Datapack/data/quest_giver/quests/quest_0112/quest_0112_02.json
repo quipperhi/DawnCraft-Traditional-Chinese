@@ -7,7 +7,7 @@
       "text": "你好，又見面了！"
     },
     "description": {
-      "text": "Did you do it? Did you kill the $(red)half wolf?$()"
+      "text": "你做到了嗎？你殺了$(red)守護狼人$()了嗎？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "這裡。"
     },
     "description": {
-      "text": "Thanks. I'll take your word for it. I'm glad to know that no one else will fall victim to these horrible monsters from now on."
+      "text": "謝謝。我相信你的話。我很高興知道從現在開始不會再有人成為這些可怕怪物的受害者。"
     }
   },
   "tasks": [
