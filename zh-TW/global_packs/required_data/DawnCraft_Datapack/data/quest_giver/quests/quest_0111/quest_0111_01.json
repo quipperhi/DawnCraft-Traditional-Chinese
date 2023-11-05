@@ -7,7 +7,7 @@
       "text": "你好，又見面了！"
     },
     "description": {
-      "text": "Bring me a piece of paper, I'll show you where it is on the paper."
+      "text": "給我一張紙，我會在紙上面跟你講它的位置。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "這裡。"
     },
     "description": {
-      "text": "Here, it's rather easy to spot once you get close. Good luck, and bring me whatever it drops."
+      "text": "這樣，一旦你接近就相當容易發現它。祝你好運，並把它的戰利品帶回來。"
     }
   },
   "tasks": [
