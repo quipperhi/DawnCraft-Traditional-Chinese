@@ -1,7 +1,7 @@
 # DawnCraft-Traditional-Chinese
-DawnCraft模組包的繁體中文化
-先上傳一些要翻譯的
-有空再慢慢更 有生之年系列
+DawnCraft模組包的繁體中文化  
+先上傳一些要翻譯的  
+有空再慢慢更 有生之年系列  
 更  
 測試遊戲任務時發現問題一堆  
 不更了
